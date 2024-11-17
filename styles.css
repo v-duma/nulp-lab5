@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Great+Vibes&display=swap');
+
+@font-face {
+    font-family: "heading-font";
+    src: url('./fonts/Oi-Regular.ttf');
+  }
+  
+  h1{
+    font-weight:normal;
+    font-family: "heading-font";
+    color: #4caf50;
+  }
+  p{
+    width: 235px;
+    font-size: 24px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+span{
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+.material-symbols-outlined {
+    vertical-align: middle;
+    color: #4caf50;
+}
